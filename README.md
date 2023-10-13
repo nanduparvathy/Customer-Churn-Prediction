@@ -36,7 +36,9 @@ Based on EDA most likely churners are ones with:
 The dataset is highly imbalanced, so upsampled it using SMOTEENN to achieve better perfomance.
 
 • Experimented with various machine learning models, including decision trees, random forests, logistic regression,naive bayes, gradient boosting, and KNN.
+
 • Metrics like accuracy, precision, recall, and F1-score to evaluate the model's performance.
+
 • Hyperparameter tuning and techniques such as cross-validation were used to optimize model performance.
 
 ## Results
